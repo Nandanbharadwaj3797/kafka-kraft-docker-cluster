@@ -40,7 +40,7 @@ Kafka-Docker-Setup/
 Start the Kafka stack:
 
 ```sh
-git clone <your-repo-url>
+git clone https://github.com/Nandanbharadwaj3797/kafka-kraft-docker-cluster.git
 cd Kafka-Docker-Setup
 docker compose up -d
 ```

@@ -44,7 +44,7 @@ MultiBroker/
 Launch the cluster:
 
 ```sh
-git clone <your-repo-url>
+git clone https://github.com/Nandanbharadwaj3797/kafka-kraft-docker-cluster.git
 cd MultiBroker
 docker compose up -d
 ```
@@ -129,5 +129,3 @@ Remove containers and volumes (purge all topics):
 ```sh
 docker compose down -v
 ```
-
-
